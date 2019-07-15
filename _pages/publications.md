@@ -24,7 +24,7 @@ Yong Liu, <b>Jian Li</b>, Guangjun Wu, Lizhong Ding, Weiping Wang. <i>arXiv prep
 [[PDF]](https://superlj666.github.io/files/2019_cv_ssl.pdf)
 
 ## 2018
-* <b>Multi-Class Learning: From Theory to Algorithm</b>. Published. <br>
+* <b>Multi-Class Learning: From Theory to Algorithm</b>. <br>
 <b>Jian Li</b>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (**NeurIPS 2018**)</i>. <br>
 [[PDF]](https://superlj666.github.io/files/2018_mc_lr.pdf)
 [[Code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm)
@@ -38,7 +38,7 @@ Yong Liu, <b>Jian Li</b>, Weiping Wang. <i>arXiv preprint arXiv:1812.07738, 2018
 
 
 ## 2017
-* <b>Efficient kernel selection via spectral analysis</b>. Published. <br>
+* <b>Efficient kernel selection via spectral analysis</b>. <br>
 <b>Jian Li</b>, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Proceedings of the 26th International Joint Conference on Artificial Intelligence (**IJCAI 2017**) </i>. <br>
 [[PDF]](https://superlj666.github.io/files/2017_kernel_selection.pdf)
 [[Poster]](https://superlj666.github.io/files/ijicai-poster-0816.pdf)

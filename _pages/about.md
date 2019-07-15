@@ -19,6 +19,8 @@ In facts, my works focus on generalization analysis of those areas and building 
 * <b>New!</b> **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis". Accepted in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
 * **Jian Li**, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. "Multi-Class Learning: From Theory to Algorithm". Published in Advances in Neural Information Processing Systems 31 ([NeurIPS 2018](https://nips.cc/Conferences/2018)).
 * **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis". Published in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)).
+* **Jian Li**, 
+
 
 # Honors and Awards
 * **CAS Presidential Scholarship**, Chinese Academy of Sciences (CAS), 2019.
@@ -26,6 +28,7 @@ In facts, my works focus on generalization analysis of those areas and building 
 * **Doctoral National Scholarship**, Ministry of Education of P.R.China, 2018.
 * **IIE Presidential Scholarship**, Institute of Information Engineering, CAS, 2018.
 * **Merit Student**, University of Chinese Academy of Sciences, 2018.
+
 
 <!---Activity and Service--->
 <!---Experience--->
