@@ -8,11 +8,15 @@ author_profile: true
 <b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)</i>. To appear. <br>
 [[PDF]](https://superlj666.github.io/files/2019_MC_LRC_SSL.pdf)
 [[Code]](https://github.com/superlj666/Multi-Class-Learning-using-Unlabeled-Samples-Theory-and-Algorithm)
+[[Poster]](https://superlj666.github.io/files/2019_MC_LRC_SSL.pdf)
+[[Slides]](https://superlj666.github.io/files/2019_MC_LRC_SSL.pdf)
 
 * <b>Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis</b>. <br>
 <b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)</i>. To appear.<br>
 [[PDF]](https://superlj666.github.io/files/2019_LapRLS_Nystrom_PCG.pdf)
 [[Code]](https://github.com/superlj666/Approximate-Manifold-Regularization-Scalable-Algorithm-and-Generalization-Analysis)
+[[Poster]](https://superlj666.github.io/files/2019_MC_LRC_SSL.pdf)
+[[Slides]](https://superlj666.github.io/files/2019_MC_LRC_SSL.pdf)
 
 * <b>Automated Spectral Kernel Learning</b>. Preprint. <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:1909.04894, 2019</i>. <br>
@@ -50,6 +54,6 @@ Yong Liu, <b>Jian Li</b>, Weiping Wang. <i>arXiv preprint arXiv:1812.07738, 2018
 ## 2017
 * <b>Efficient kernel selection via spectral analysis</b>. <br>
 <b>Jian Li</b>, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Proceedings of the 26th International Joint Conference on Artificial Intelligence (**IJCAI 2017**) </i>. <br>
-[[PDF]](https://superlj666.github.io/files/2017_kernel_selection.pdf)
-[[Poster]](https://superlj666.github.io/files/ijicai-poster-0816.pdf)
-[[Sildes]](https://superlj666.github.io/files/IJCAI_presentation.pptx)
+[[PDF]](https://superlj666.github.io/files/2017_IJCAI_KS/2017_kernel_selection.pdf)
+[[Poster]](https://superlj666.github.io/files/2017_IJCAI_KS/ijicai-poster-0816.pdf)
+[[Sildes]](https://superlj666.github.io/files/2017_IJCAI_KS/IJCAI_presentation.pptx)

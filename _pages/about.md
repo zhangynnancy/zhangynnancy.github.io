@@ -20,7 +20,6 @@ In facts, my works focus on generalization analysis of those areas and building 
 * **Jian Li**, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. "Multi-Class Learning: From Theory to Algorithm". Published in Advances in Neural Information Processing Systems 31 ([NeurIPS 2018](https://nips.cc/Conferences/2018)).
 * **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis". Published in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)).
 
-
 # Honors and Awards
 * **CAS Presidential Scholarship**, Chinese Academy of Sciences (CAS), 2019.
 * **Merit Student**, University of Chinese Academy of Sciences, 2019.
