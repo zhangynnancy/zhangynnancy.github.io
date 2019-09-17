@@ -14,7 +14,17 @@ author_profile: true
 [[PDF]](https://superlj666.github.io/files/2019_LapRLS_Nystrom_PCG.pdf)
 [[Code]](https://github.com/superlj666/Approximate-Manifold-Regularization-Scalable-Algorithm-and-Generalization-Analysis)
 
-* <b>Distributed Learning with Random Features</b>. Preprint (Submitted to NeurIPS 2019). <br>
+* <b>Automated Spectral Kernel Learning</b>. Preprint. <br>
+<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:1909.04894, 2019</i>. <br>
+[[PDF]](https://arxiv.org/pdf/1909.04894)
+[[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning)
+
+* <b>Learning Vector-valued Functions with Local Rademacher Complexity</b>. Preprint. <br>
+<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:1909.04883, 2019</i>. <br>
+[[PDF]](https://arxiv.org/pdf/1909.04883)
+[[Code]](https://github.com/superlj666/Learning-Vector-valued-Functions-with-Local-Rademacher-Complexity)
+
+* <b>Distributed Learning with Random Features</b>. Preprint. <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:1906.03155, 2019</i>. <br>
 [[PDF]](https://superlj666.github.io/files/2019_dc_rf.pdf)
 [[Code]](https://github.com/superlj666/Distributed-Learning-with-Random-Features)
