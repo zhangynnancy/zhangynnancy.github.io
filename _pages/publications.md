@@ -5,16 +5,16 @@ author_profile: true
 ---
 ## 2019
 * <b>Multi-Class Learning using Unlabeled Samples: Theory and Algorithm</b>. <br>
-<b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)</i>. To appear. <br>
+<b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)</i>.<br>
 [[PDF]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL.pdf)
 [[Poster]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL_poster.pdf)
 [[Slides]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL_slides.pdf)
 [[Code]](https://github.com/superlj666/Multi-Class-Learning-using-Unlabeled-Samples-Theory-and-Algorithm)
 * <b>Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis</b>. <br>
-<b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)</i>. To appear.<br>
-[[PDF]](https://lijian.ac.cn/files/2019_LapRLS_Nystrom_PCG.pdf)
-[[Poster]](https://lijian.ac.cn/files/2019_MC_LRC_SSL.pdf)
-[[Slides]](https://lijian.ac.cn/files/2019_MC_LRC_SSL.pdf)
+<b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)</i>.<br>
+[[PDF]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nystrom_PCG.pdf)
+[[Poster]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_MC_LRC_SSL_poster.pdf)
+[[Slides]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_MC_LRC_SSL_slides.pdf)
 [[Code]](https://github.com/superlj666/Approximate-Manifold-Regularization-Scalable-Algorithm-and-Generalization-Analysis)
 * <b>Automated Spectral Kernel Learning</b>. Preprint. <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:1909.04894, 2019</i>. <br>
