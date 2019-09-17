@@ -6,16 +6,16 @@ author_profile: true
 ## 2019
 * <b>Multi-Class Learning using Unlabeled Samples: Theory and Algorithm</b>. <br>
 <b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)</i>. To appear. <br>
-[[PDF]](https://lijian.ac.cn/files/2019_MC_LRC_SSL.pdf)
+[[PDF]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL.pdf)
+[[Poster]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL_poster.pdf)
+[[Slides]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL_slides.pdf)
 [[Code]](https://github.com/superlj666/Multi-Class-Learning-using-Unlabeled-Samples-Theory-and-Algorithm)
-[[Poster]](https://lijian.ac.cn/files/2019_MC_LRC_SSL.pdf)
-[[Slides]](https://lijian.ac.cn/files/2019_MC_LRC_SSL.pdf)
 * <b>Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis</b>. <br>
 <b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)</i>. To appear.<br>
 [[PDF]](https://lijian.ac.cn/files/2019_LapRLS_Nystrom_PCG.pdf)
-[[Code]](https://github.com/superlj666/Approximate-Manifold-Regularization-Scalable-Algorithm-and-Generalization-Analysis)
 [[Poster]](https://lijian.ac.cn/files/2019_MC_LRC_SSL.pdf)
 [[Slides]](https://lijian.ac.cn/files/2019_MC_LRC_SSL.pdf)
+[[Code]](https://github.com/superlj666/Approximate-Manifold-Regularization-Scalable-Algorithm-and-Generalization-Analysis)
 * <b>Automated Spectral Kernel Learning</b>. Preprint. <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:1909.04894, 2019</i>. <br>
 [[PDF]](https://arxiv.org/pdf/1909.04894)
@@ -36,10 +36,10 @@ Yong Liu, <b>Jian Li</b>, Guangjun Wu, Lizhong Ding, Weiping Wang. <i>arXiv prep
 * <b>Multi-Class Learning: From Theory to Algorithm</b>. <br>
 <b>Jian Li</b>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (**NeurIPS 2018**)</i>. <br>
 [[PDF]](https://lijian.ac.cn/files/2018_NeurIPS_MC/2018_mc_lr.pdf)
-[[Code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm)
 [[Poster]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-poster.pdf)
-[[Sildes]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-Sildess.pdf)
+[[Sildes]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-slides.pdf)
 [[3-minute video]](https://youtu.be/mE_RpgWuKK8)
+[[Code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm)
 * <b>Max-Diversity Distributed Learning: Theory and Algorithms</b>. Preprint. <br>
 Yong Liu, <b>Jian Li</b>, Weiping Wang. <i>arXiv preprint arXiv:1812.07738, 2018</i>. <br>
 [[PDF]](https://lijian.ac.cn/files/2018_max_diversity_dc.pdf)
