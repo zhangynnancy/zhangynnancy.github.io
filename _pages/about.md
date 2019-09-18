@@ -11,8 +11,8 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 I received my Bachelor's degree in [Northeastern University](http://english.neu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College. 
 
 # Research
-My research interests mainly lie in large scale machine learning with theoretical guarantees and efficient algorithms, but also kernel selection and graph-based semi-supervised learning. <br>
-In facts, my works focus on generalization analysis of those areas and building effective and scalable algorithmic tools for them, to channel theory and algorithms into applications.
+My research interests mainly lie in **efficient large machine learning with theoretical guarantee**, but also include kernel methods, semi-supervised learning (SSL) and interpretability for neural networks. <br>
+Indeed, my works focus on **generalization** analysis of those areas and building effective and scalable **optimization** tools for them, to channel theory and algorithms into applications.
 
 # Publications
 * **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Multi-Class Learning using Unlabeled Samples: Theory and Algorithm". Published in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
@@ -21,11 +21,12 @@ In facts, my works focus on generalization analysis of those areas and building 
 * **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis". Published in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)).
 
 # Honors and Awards
-* **CAS Presidential Scholarship**, Chinese Academy of Sciences (CAS), 2019.
-* **Merit Student**, University of Chinese Academy of Sciences, 2019.
-* **Doctoral National Scholarship**, Ministry of Education of P.R.China, 2018.
-* **IIE Presidential Scholarship**, Institute of Information Engineering, CAS, 2018.
-* **Merit Student**, University of Chinese Academy of Sciences, 2018.
+* [The UCAS Joint PhD Training Program (USD \$22,800, almost 100/50,000 per year)](https://lijian.ac.cn/files/awards/2019_ucas_joint_phd_training_program.pdf), University of Chinese Academy of Sciences (UCAS), 2019.
+* [CAS Presidential Scholarship (Top 1\%, RMB \textyen 5,000)](https://lijian.ac.cn/files/awards/2019_cas_presidential_scholarship.pdf), Chinese Academy of Sciences (CAS), 2019.
+* [National Scholarship for Doctoral students (Top 2\%, RMB \textyen 30,000)](https://lijian.ac.cn/files/awards/2018_national_scholarship.pdf), Ministry of Education of P.R.China, 2018.
+* [IIE Presidential Scholarship (Top 10\%, RMB \textyen 2,000)](https://lijian.ac.cn/files/awards/2018_iie_presidential_scholarship.pdf), Institute of Information Engineering (IIE), 2018.
+* **Merit Student**, University of Chinese Academy of Sciences (UCAS), [2018](https://lijian.ac.cn/files/awards/2018_merit_student.pdf)/[2019](https://lijian.ac.cn/files/awards/2019_merit_student.pdf).
+* **Laboratory Excellent Student Scholarship**, Institute of Information Engineering, CAS, [2017](https://lijian.ac.cn/files/awards/2017_laboratory_excellent_student.pdf)/[2018](https://lijian.ac.cn/files/awards/2018_laboratory_excellent_student.pdf).
 
 
 <!---Activity and Service--->
