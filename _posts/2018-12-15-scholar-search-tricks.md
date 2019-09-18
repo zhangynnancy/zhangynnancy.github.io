@@ -38,7 +38,7 @@ tags:
 ("random feature" OR "kernel selection") AND (site:nips.cc OR site:icml.cc OR source:"IEEE Transactions on Pattern Analysis and Machine Intelligence" OR site:jmlr.org OR site:ijcai.org OR site:aaai.org)
 ```
 
-![](https://lijian.ac.cn/files/scholar_search_strick.png)
+![](https://lijian.ac.cn/files/posts/scholar_search_strick.png)
 ## 3. 机器学习领域顶会网址(site)
 
 |刊物缩写|网址site|

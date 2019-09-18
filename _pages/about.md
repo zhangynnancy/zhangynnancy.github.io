@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/english_cv.pdf))"
+title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -21,7 +21,7 @@ Indeed, my works focus on **generalization** analysis of those areas and buildin
 * **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis". Published in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)).
 
 # Honors and Awards
-* [The UCAS Joint PhD Training Program (USD \$22,800, almost 100/50,000 per year)](https://lijian.ac.cn/files/awards/2019_ucas_joint_phd_training_program.pdf) <br>
+* [The UCAS Joint PhD Training Program (almost 100/50,000, USD \$22,800)](https://lijian.ac.cn/files/awards/2019_ucas_joint_phd_training_program.pdf) <br>
   University of Chinese Academy of Sciences (UCAS), 2019.
 * [CAS Presidential Scholarship (Top 1%, RMB &yen;5,000)](https://lijian.ac.cn/files/awards/2019_cas_presidential_scholarship.pdf) <br>
   Chinese Academy of Sciences (CAS), 2019.
