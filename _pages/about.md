@@ -22,9 +22,9 @@ Indeed, my works focus on **generalization** analysis of those areas and buildin
 
 # Honors and Awards
 * [The UCAS Joint PhD Training Program (USD \$22,800, almost 100/50,000 per year)](https://lijian.ac.cn/files/awards/2019_ucas_joint_phd_training_program.pdf), University of Chinese Academy of Sciences (UCAS), 2019.
-* [CAS Presidential Scholarship (Top 1\%, RMB \textyen 5,000)](https://lijian.ac.cn/files/awards/2019_cas_presidential_scholarship.pdf), Chinese Academy of Sciences (CAS), 2019.
-* [National Scholarship for Doctoral students (Top 2\%, RMB \textyen 30,000)](https://lijian.ac.cn/files/awards/2018_national_scholarship.pdf), Ministry of Education of P.R.China, 2018.
-* [IIE Presidential Scholarship (Top 10\%, RMB \textyen 2,000)](https://lijian.ac.cn/files/awards/2018_iie_presidential_scholarship.pdf), Institute of Information Engineering (IIE), 2018.
+* [CAS Presidential Scholarship (Top 1\%, RMB &yen;5,000)](https://lijian.ac.cn/files/awards/2019_cas_presidential_scholarship.pdf), Chinese Academy of Sciences (CAS), 2019.
+* [National Scholarship for Doctoral students (Top 2\%, RMB &yen;30,000)](https://lijian.ac.cn/files/awards/2018_national_scholarship.pdf), Ministry of Education of P.R.China, 2018.
+* [IIE Presidential Scholarship (Top 10\%, RMB &yen;2,000)](https://lijian.ac.cn/files/awards/2018_iie_presidential_scholarship.pdf), Institute of Information Engineering (IIE), 2018.
 * **Merit Student**, University of Chinese Academy of Sciences (UCAS), [2018](https://lijian.ac.cn/files/awards/2018_merit_student.pdf)/[2019](https://lijian.ac.cn/files/awards/2019_merit_student.pdf).
 * **Laboratory Excellent Student Scholarship**, Institute of Information Engineering, CAS, [2017](https://lijian.ac.cn/files/awards/2017_laboratory_excellent_student.pdf)/[2018](https://lijian.ac.cn/files/awards/2018_laboratory_excellent_student.pdf).
 
