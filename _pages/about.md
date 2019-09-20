@@ -11,7 +11,7 @@ I am currently a Ph.D. student in the [Institute of Information Engineering](htt
 I received my Bachelor's degree in [Northeastern University](http://english.neu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College. 
 
 # Research
-My research interests mainly lie in **efficient large machine learning with theoretical guarantee**, but also include kernel methods, semi-supervised learning (SSL) and interpretability for neural networks. <br>
+My research interests mainly lie in **efficient large scale machine learning with theoretical guarantee**, but also include kernel methods, semi-supervised learning (SSL) and interpretability of neural networks. <br>
 Indeed, my works focus on **generalization** analysis of those areas and building effective and scalable **optimization** tools for them, to channel theory and algorithms into applications.
 
 # Publications
