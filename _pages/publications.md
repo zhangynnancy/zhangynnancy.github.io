@@ -47,7 +47,7 @@ Yong Liu, <b>Jian Li</b>, Weiping Wang. <i>arXiv preprint arXiv:1812.07738, 2018
 
 
 ## 2017
-* <b>Efficient kernel selection via spectral analysis</b>. <br>
+* <b>Efficient Kernel Selection via Spectral Analysis</b>. <br>
 <b>Jian Li</b>, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Proceedings of the 26th International Joint Conference on Artificial Intelligence (**IJCAI 2017**) </i>. <br>
 [[PDF]](https://lijian.ac.cn/files/2017_IJCAI_KS/2017_kernel_selection.pdf)
 [[Poster]](https://lijian.ac.cn/files/2017_IJCAI_KS/ijicai-poster-0816.pdf)
