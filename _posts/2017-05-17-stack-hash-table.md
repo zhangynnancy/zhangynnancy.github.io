@@ -8,12 +8,13 @@ tags:
   - Algorithms
 ---
 
-## 主要应用的是Hash Table
+# 概述
 - 要对每种基础数据结构有深刻的理解。主要应对设计题：
 - HashTable： 增、删、查都是O(1)，但是是无序的
 - vector: 增(尾部增O(1)、其他O(n))、删(尾部删O(1)、其他O(n))、查(O(n)),可以有序可以无序
 - list: 增、删(头尾O(1)、其他O(n))、查(O(n))
----
+
+# 题目
 ## [1. Two Sum](https://leetcode.com/problems/two-sum/)
 ```c++
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
@@ -40,12 +41,25 @@ vector<int> twoSum(vector<int>& nums, int target) {
     return res;
 }
 ```
----
+
 ## [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
-```c++
 Determine if a Sudoku is valid, according to: Sudoku Puzzles - The Rules.
 The Sudoku board could be partially filled, where empty cells are filled with the character '.'.
 A partially filled sudoku which is valid.
+```c++
+Input:
+[
+  ["5","3",".",".","7",".",".",".","."],
+  ["6",".",".","1","9","5",".",".","."],
+  [".","9","8",".",".",".",".","6","."],
+  ["8",".",".",".","6",".",".",".","3"],
+  ["4",".",".","8",".","3",".",".","1"],
+  ["7",".",".",".","2",".",".",".","6"],
+  [".","6",".",".",".",".","2","8","."],
+  [".",".",".","4","1","9",".",".","5"],
+  [".",".",".",".","8",".",".","7","9"]
+]
+Output: true
 ```
 ### 数独是否可解，数独的三个条件 1. 行不重复 2. 列不重复 3. 3*3子矩阵不重复。使用数组做词典来比较。
 ```c++
@@ -66,10 +80,10 @@ bool isValidSudoku(vector<vector<char>>& board) {
     return true;
 }
 ```
----
+
 ## [146. LRU Cache](https://leetcode.com/problems/lru-cache)
 ### 实现LRU，即优先抛弃最近未命中
-### 使用list保存key值，unordered_map保存key value对应的对，unordered_map保存key 位置对应的对。
+### 使用list保存key值新命中的放前面，unordered_map保存key value对应的对，unordered_map保存key 位置对应的对。
 ```c++
 class LRUCache {
 public:
@@ -79,36 +93,35 @@ public:
     
     int get(int key) {
         if (key2value.find(key) != key2value.end()) {
-            keys.erase(key2loc[key]);
-            keys.push_front(key);
-            key2loc[key] = keys.begin();
-            
+            update_key(key);            
             return key2value[key];
         } else {
             return -1;
         }
     }
     
+    void update_key(key) {
+        if(key2value.find(key2loc[key]) != key2value.end()){
+            keys.erase(key2loc[key]);
+        }
+        keys.push_front(key);
+        key2loc[key] = keys.begin();
+    }
+
     void put(int key, int value) {
         if (key2value.find(key) != key2value.end()) {
-                key2value[key] = value;
-                
-                keys.erase(key2loc[key]);
-                keys.push_front(key);
-                key2loc[key] = keys.begin();
+                key2value[key] = value;                
+                update_key(key);
         } else { 
             if (keys.size() == cap) {
                     key2value.erase(key2value.find(keys.back()));
                     key2loc.erase(key2loc.find(keys.back()));
                     keys.pop_back();
                     
-                    keys.push_front(key);
-                    key2value[key] = value;
-                    key2loc[key] = keys.begin();
+                    update_key(key);
             } else {
                 keys.push_front(key);
-                key2value[key] = value;
-                key2loc[key] = keys.begin();
+                update_key(key);
             }
         }
    }
@@ -119,9 +132,17 @@ private:
     int cap;
 };
 ```
----
+
 ### [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/)
 ### 所有字符串拼接出来的起始位置。 注意：有可能字符串有可能重复，所以使用map保存其出现次数。for循环的步长为1， 结束条件为剩余长度为n-1。
+```
+Input:
+  s = "barfoothefoobarman",
+  words = ["foo","bar"]
+Output: [0,9]
+Explanation: Substrings starting at index 0 and 9 are "barfoor" and "foobar" respectively.
+The output order does not matter, returning [9,0] is fine too.
+```
 ```c++
 vector<int> findSubstring(string s, vector<string>& words) {
     int m = words.size(), n = m?words[0].size():0;
@@ -157,9 +178,14 @@ vector<int> findSubstring(string s, vector<string>& words) {
 }
 
 ```
----
+
 ### [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 ### 最大连续序列。使用Hash table记录数组中数值，遍历数组如果数值是新的开始，则遍历该数值能到达的长序列。得到的最大值就是结果。
+```
+Input: [100, 4, 200, 1, 3, 2]
+Output: 4
+Explanation: The longest consecutive elements sequence is [1, 2, 3, 4]. Therefore its length is 4.
+```
 ```c++
 int longestConsecutive(vector<int>& nums) {
     set<int> nums_set;
