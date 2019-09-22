@@ -327,6 +327,13 @@ ListNode* partition(ListNode* head, int x) {
 ## [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/#/description)
 ```c++
 Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
+Input:
+[
+  1->4->5,
+  1->3->4,
+  2->6
+]
+Output: 1->1->2->3->4->4->5->6
 ```
 * 这道题目可以使用在每个链表中当前节点中选取val最小的，然后拼接起来。或者递归地两两合并，利用分治的思想。时间复杂度分别是O(kn)、O(nlogk)。然而实际使用分治的方法要快很多。
 ```c++
