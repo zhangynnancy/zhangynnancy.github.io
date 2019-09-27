@@ -21,9 +21,9 @@ Indeed, my works focus on **generalization** analysis of those areas and buildin
 * **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis". Published in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)).
 
 # Honors and Awards
-* [The UCAS Joint PhD Training Program (2\textperthousand, USD \$22,800)](https://lijian.ac.cn/files/awards/2019_ucas_joint_phd_training_program.pdf) for [academic visiting at Stanford University twelve months](https://lijian.ac.cn/files/awards/2019_stanford_visiting.pdf). University of Chinese Academy of Sciences (UCAS). 2019.
+* [The UCAS Joint PhD Training Program (2&permil;, USD \$22,800)](https://lijian.ac.cn/files/awards/2019_ucas_joint_phd_training_program.pdf) for [academic visiting at Stanford University twelve months](https://lijian.ac.cn/files/awards/2019_stanford_visiting.pdf). University of Chinese Academy of Sciences (UCAS). 2019.
 * [CAS Presidential Scholarship (Top 1\%, RMB &yen; 5,000)](https://lijian.ac.cn/files/awards/2019_cas_presidential_scholarship.pdf), Chinese Academy of Sciences (CAS). 2019.
-* [National Scholarship for Doctoral students (Top 2\%, RMB &yen; 30,000)](https://lijian.ac.cn/files/awards/2018_national_scholarship.pdf), Ministry of Education of P.R. China. 2018.
+* [National Scholarship for Doctoral students (Top 2%, RMB &yen; 30,000)](https://lijian.ac.cn/files/awards/2018_national_scholarship.pdf), Ministry of Education of P.R. China. 2018.
 * [IIE Presidential Scholarship (Top 10\%, RMB &yen; 2,000)](https://lijian.ac.cn/files/awards/2018_iie_presidential_scholarship.pdf), Institute of Information Engineering, CAS. 2018.
 * [Merit Student](https://lijian.ac.cn/files/awards/2018_merit_student.pdf), University of Chinese Academy of Sciences (UCAS). 2018.
 * [Merit Student](https://lijian.ac.cn/files/awards/2019_merit_student.pdf), University of Chinese Academy of Sciences (UCAS). 2019.
