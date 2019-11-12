@@ -16,8 +16,8 @@ author_profile: true
 [[Poster]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nystrom_PCG_poster.pdf)
 [[Slides]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nystrom_PCG_slides.pdf)
 [[Code]](https://github.com/superlj666/Approximate-Manifold-Regularization-Scalable-Algorithm-and-Generalization-Analysis)
-* <b>Automated Spectral Kernel Learning</b>. Preprint. <br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:1909.04894, 2019</i>. <br>
+* <b>Automated Spectral Kernel Learning</b>. To Appear. <br>
+<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**)</i>.<br> 
 [[PDF]](https://arxiv.org/pdf/1909.04894)
 [[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning)
 * <b>Learning Vector-valued Functions with Local Rademacher Complexity</b>. Preprint. <br>
