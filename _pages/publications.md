@@ -4,6 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2019
+* <b>Automated Spectral Kernel Learning</b>. <br>
+<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**)</i>.<br>
+[[PDF]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_AKSL.pdf)
+[[Poster]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_AKSL_poster.pdf)
+[[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning)
+
+## 2019
 * <b>Multi-Class Learning using Unlabeled Samples: Theory and Algorithm</b>. <br>
 <b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**)</i>.<br>
 [[PDF]](https://www.ijcai.org/proceedings/2019/0399.pdf)
