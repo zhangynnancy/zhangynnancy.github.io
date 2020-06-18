@@ -3,12 +3,16 @@ title: "Publications ([Google Scholar Profile](https://scholar.google.com/citati
 permalink: /publications/
 author_profile: true
 ---
-## 2019
+## 2020
 * <b>Automated Spectral Kernel Learning</b>. <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <i>In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**)</i>.<br>
-[[PDF]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_AKSL.pdf)
+[[PDF]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_ASKL.pdf)
 [[Poster]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_AKSL_poster.pdf)
 [[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning)
+* <b>Convolutional Spectral Kernel Learning</b>. Preprint.<br>
+<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:2002.12744 , 2020</i>.<br>
+[[PDF]](https://arxiv.org/pdf/2002.12744)
+
 
 ## 2019
 * <b>Multi-Class Learning using Unlabeled Samples: Theory and Algorithm</b>. <br>
@@ -23,10 +27,6 @@ author_profile: true
 [[Poster]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nystrom_PCG_poster.pdf)
 [[Slides]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nystrom_PCG_slides.pdf)
 [[Code]](https://github.com/superlj666/Approximate-Manifold-Regularization-Scalable-Algorithm-and-Generalization-Analysis)
-* <b>Automated Spectral Kernel Learning</b>. To Appear. <br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**)</i>.<br> 
-[[PDF]](https://arxiv.org/pdf/1909.04894)
-[[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning)
 * <b>Learning Vector-valued Functions with Local Rademacher Complexity</b>. Preprint. <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:1909.04883, 2019</i>. <br>
 [[PDF]](https://arxiv.org/pdf/1909.04883)
