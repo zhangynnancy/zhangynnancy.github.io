@@ -11,7 +11,7 @@ I am currently a Ph.D. student in the school of Computer Science and Engineering
 I received my Bachelor's degree in Taishan College, Shandong University, China. 
 
 # Research
-My research interests mainly lie in **sequential recommendation**.
+My research interests mainly lie in **sequential recommendations**.
 
 # Publications
 * **Yinan Zhang**, Yong Liu, Peng Han, Chunyan Miao, Lizhen Cui, Baoli Li, Haihong Tang. "Learning Personalized Itemset Mapping for Cross-Domain Recommendation". Published in the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020). **AcceptanceRate:12.6%**.
