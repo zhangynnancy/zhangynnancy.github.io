@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Li"
+title                    : "Yinan Zhang"
 title_separator          : "-"
-name                     : &name "Jian Li"
-description              : &description "PhD student in Machine Learning. Institute of Information Engineering, CAS"
-url                      : https://superlj666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yinan Zhang"
+description              : &description "PhD student, School of Computer Science and Engineering, Nanyang Technological University"
+url                      : https://zhangynnancy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "superlj666/superlj666.github.io"
+repository               : "zhangynnancy/zhangynnancy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jian Li"
+  name             : "Yinan Zhang"
   avatar           : "avatar.png" # "jianli.jpg" #
-  bio              : "PhD student in Machine Learning. Institute of Information Engineering, CAS"
-  location         : "Beijing, China"
+  bio              : "PhD student, School of Computer Science and Engineering, Nanyang Technological University"
+  location         : "Singapore"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=IAJpTqYAAAAJ"
-  email            : "me@lijian.ac.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=5cgNYikAAAAJ&hl=en"
+  email            : "yinan002@e.ntu.edu.sg"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,12 +91,12 @@ author:
   flickr           :
   # facebook         : "profile.php?id=100008003527316"
   foursquare       :
-  github           : "superlj666"
+  github           :
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "superlj666"
+  linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
