@@ -14,8 +14,8 @@ I received my Bachelor's degree in Taishan College, Shandong University, China.
 My research interests mainly lie in **sequential recommendation**.
 
 # Publications
-* **Yinan Zhang**, Yong Liu, Peng Han, Chunyan Miao, Lizhen Cui, Baoli Li, Haihong Tang. "Learning Personalized Itemset Mapping for Cross-Domain Recommendation". Published in the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020).
-* Chang Liu, **Yinan Zhang**, Lei Liu, Lizhen Cui, Dong Yuan, Chunyan Miao. "Crowd-enabled Pareto-Optimal Objects Finding Employing Multi-Pairwise-Comparison Questions". Published in the Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (CIKM 2017).
+* **Yinan Zhang**, Yong Liu, Peng Han, Chunyan Miao, Lizhen Cui, Baoli Li, Haihong Tang. "Learning Personalized Itemset Mapping for Cross-Domain Recommendation". Published in the 29th International Joint Conference on Artificial Intelligence (IJCAI 2020). **AcceptanceRate:12.6%**.
+* Chang Liu, **Yinan Zhang**, Lei Liu, Lizhen Cui, Dong Yuan, Chunyan Miao. "Crowd-enabled Pareto-Optimal Objects Finding Employing Multi-Pairwise-Comparison Questions". Published in the Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (CIKM 2017). **AcceptanceRate:20%**.
 
 # Honors and Awards
 * Dean Scholarship of Taishan College, Shandong University (RMB &yen; 10,000). 2019.
