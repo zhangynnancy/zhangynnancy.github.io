@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the school of Computer Science and Engineering, Nanyang Technological University, under the supervision of Professor Chuanyan Miao. <br>
+I am currently a Ph.D. student in the school of Computer Science and Engineering, Nanyang Technological University, under the supervision of Professor Chunyan Miao. <br>
 I received my Bachelor's degree in Taishan College, Shandong University, China. 
 
 # Research
