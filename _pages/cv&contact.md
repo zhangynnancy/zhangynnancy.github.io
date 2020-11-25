@@ -9,7 +9,5 @@ author_profile: true
 [Chinese CV [PDF]](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian_chineseCV.pdf)
 
 # Contact
-Institute of Information Engineering, Chinese Academy of Sciences<br>
-89-A, Minzhuang Rd, Haidian District,
-Beijing, 100093, China<br>
-Email: me [at] lijian.ac.cn, lijian9026 [at] iie.ac.cn
+LILY,N4-B3b-06,NTU,Singapore, 639798<br>
+Email: yinan002@e.ntu.edu.sg
