@@ -4,13 +4,12 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2020
-<!-- * <b>Automated Spectral Kernel Learning</b>. <br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**)</i>.<br>
-[[PDF]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_ASKL.pdf)
-[[Poster]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_AKSL_poster.pdf)
-[[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning)
+* <b>Learning Personalized Itemset Mapping for Cross-Domain Recommendation</b>. <br>
+<b>Yinan Zhang</b>, Yong Liu, Peng Han, Chunyan Miao, Lizhen Cui, Baoli Li and Haihong Tang. <i>In Proceedings of the 29th International Joint Conference on Artificial Intelligence (**IJCAI 2020**)</i>.<br>
+
+[[Code]](https://github.com/zhangynnancy/Cycle-Generation-Networks)
 * <b>Convolutional Spectral Kernel Learning</b>. Preprint.<br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:2002.12744 , 2020</i>.<br>
-[[PDF]](https://arxiv.org/pdf/2002.12744) -->
+[[PDF]](https://arxiv.org/pdf/2002.12744)
 
 
