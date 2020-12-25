@@ -10,3 +10,7 @@ author_profile: true
 [[Code]](https://github.com/zhangynnancy/Cycle-Generation-Networks)
 [[Slides]](https://github.com/zhangynnancy/zhangynnancy.github.io/tree/master/files/2020_IJCAI_CGN/IJCAI2020-15minute.pdf)
 
+## 2017
+* <b>Crowd-enabled Pareto-Optimal Objects Finding Employing Multi-Pairwise-Comparison Questions</b>. <br>
+Chang Liu, <b>Yinan Zhang</b>, Lei Liu, Lizhen Cui, Dong Yuan, Chunyan Miao. <i>In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (**CIKM 2017**)</i>.<br>
+[[Paper]](https://dl.acm.org/doi/abs/10.1145/3132847.3132910)
