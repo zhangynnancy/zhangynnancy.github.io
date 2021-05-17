@@ -4,8 +4,10 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2021
+* <b>Initialization Matters: Regularizing Manifold-informed Initialization for Neural Recommendation Systems</b>. <br>
+<b>Yinan Zhang</b>, Boyang Li, Yong Liu, Hao Wang and Chunyan Miao. <i>In Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**SIGKDD 2021**)</i>.<br>
 * <b>Learning Personalized Itemset Mapping for Cross-Domain Recommendation</b>. <br>
-<b>Yinan Zhang</b>, Boyang Li, Yong Liu, Hao Wang and Chunyan Miao. <i>In Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**SIGKDD 2020**)</i>.<br>
+Yong Liu, Susen Yang, <b>Yinan Zhang</b>, Chunyan Miao, Zaiqing Nie and Juyong Zhang. <i>In IEEE Transactions on Knowledge and Data Engineering (**TKDE**)</i>.<br>
 
 ## 2020
 * <b>Learning Personalized Itemset Mapping for Cross-Domain Recommendation</b>. <br>
