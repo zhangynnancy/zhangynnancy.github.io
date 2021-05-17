@@ -8,6 +8,7 @@ author_profile: true
 <b>Yinan Zhang</b>, Boyang Li, Yong Liu, Hao Wang and Chunyan Miao. <i>In Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**SIGKDD**)</i>.<br>
 * <b>Learning Hierarchical Review Graph Representations for Recommendation</b>. <br>
 Yong Liu, Susen Yang, <b>Yinan Zhang</b>, Chunyan Miao, Zaiqing Nie and Juyong Zhang. <i>In IEEE Transactions on Knowledge and Data Engineering (**TKDE**)</i>.<br>
+[[Paper]](https://ieeexplore.ieee.org/abstract/document/9416173?signout=success)
 
 ## 2020
 * <b>Learning Personalized Itemset Mapping for Cross-Domain Recommendation</b>. <br>
