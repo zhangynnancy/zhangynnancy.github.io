@@ -19,5 +19,5 @@ Yong Liu, Susen Yang, <b>Yinan Zhang</b>, Chunyan Miao, Zaiqing Nie and Juyong Z
 
 ## 2017
 * <b>Crowd-enabled Pareto-Optimal Objects Finding Employing Multi-Pairwise-Comparison Questions</b>. <br>
-Chang Liu, <b>Yinan Zhang</b>, Lei Liu, Lizhen Cui, Dong Yuan, Chunyan Miao. <i>In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (**CIKM**)</i>.<br>
+Chang Liu, <b>Yinan Zhang</b>, Lei Liu, Lizhen Cui, Dong Yuan, Chunyan Miao. <i>In Proceedings of the 26th ACM on Conference on Information and Knowledge Management (**CIKM**)</i>.<br>
 [[Paper]](https://dl.acm.org/doi/abs/10.1145/3132847.3132910)
