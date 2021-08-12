@@ -6,8 +6,9 @@ author_profile: true
 ## 2021
 * <b>Initialization Matters: Regularizing Manifold-informed Initialization for Neural Recommendation Systems</b>. <br>
 <b>Yinan Zhang</b>, Boyang Li, Yong Liu, Hao Wang and Chunyan Miao. <i>In Proceedings of the 27th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**SIGKDD 2021**)</i>. Acceptance rate: **15.4%**, research track.<br>
-[[Paper]](https://arxiv.org/pdf/2106.04993.pdf)
+[[Paper]](https://dl.acm.org/doi/10.1145/3447548.3467338)
 [[Code]](https://github.com/zhangynnancy/Leporid_DLR2)
+[[Video]](https://www.youtube.com/watch?v=lFCFhzZbZ9A)
 * <b>Learning Hierarchical Review Graph Representations for Recommendation</b>. <br>
 Yong Liu, Susen Yang, <b>Yinan Zhang</b>, Chunyan Miao, Zaiqing Nie and Juyong Zhang. <i>In IEEE Transactions on Knowledge and Data Engineering (**TKDE**)</i>. Regular paper.<br>
 [[Paper]](https://ieeexplore.ieee.org/abstract/document/9416173?signout=success)
