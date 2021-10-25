@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the school of Computer Science and Engineering, Nanyang Technological University, under the supervision of Professor Chunyan Miao. <br>
-I received my Bachelor's degree in Taishan College, Shandong University, China in 2019. <br>
+I am currently a Ph.D. candidate in the school of Computer Science and Engineering, [Nanyang Technological University](https://www.ntu.edu.sg/), under the supervision of [Professor Chunyan Miao](https://dr.ntu.edu.sg/cris/rp/rp00084). <br>
+I received my Bachelor's degree in [Taishan College](https://www.tsxt.sdu.edu.cn/), [Shandong University](https://en.sdu.edu.cn/), China in 2019. <br>
 
 My research interests mainly lie in machine learning and recommendation systems.
 
