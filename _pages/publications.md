@@ -3,6 +3,35 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2025
+* <b>Bites of Tomorrow: Personalized Recommendations for a Healthier and Greener Plate</b>. <br>
+Jiazheng Jing*, <b>Yinan Zhang*</b> and Chunyan Miao. <br>
+<i>In AAAI'25</i>. Acceptance rate: 23.4%.<br>
+* <b>The POWER of Ikigai: Optimizing Life Fulfillment with an Integrated User Simulator and Adaptive Hobby Recommender</b>. <br>
+Ping Chen, Jonathan Leung, <b>Yinan Zhang</b> and Zhiqi Shen. <br>
+<i>In IAAI'25</i>. Acceptance rate: 16.33%.<br>
+
+## 2024
+* <b>GreenRec: A Large-Scale Dataset for Green Food Recommendation.</b>. <br>
+Lingzi Zhang*, <b>Yinan Zhang*</b>, Xin Zhou and Zhiqi Shen. <br>
+<i>In WWW'23</i>. Short paper track.<br>
+[[Paper]](https://dl.acm.org/doi/10.1145/3589335.3651516)
+* <b>Enabling Patient-side Disease Prediction via the Integration of Patient Narratives</b>. <br>
+Zhixiang Su, <b>Yinan Zhang</b>, Jiazheng Jing, Jie Xiao and Zhiqi Shen. <br>
+<i>In WWW'23</i>. Short paper track.<br>
+[[Paper]](https://dl.acm.org/doi/10.1145/3589335.3651498)
+
+
+## 2023
+* <b>Capturing Popularity Trends: A Simplistic Non-Personalized Approach for Enhanced Item Recommendation</b>. <br>
+Jiazheng Jing*, <b>Yinan Zhang*</b>, Xin Zhou and Zhiqi Shen. <br>
+<i>In CIKM'23</i>. Acceptance rate: 24%, main track.<br>
+[[Paper]](https://dl.acm.org/doi/10.1145/3447548.3467338)
+* <b>Minimalist and High-performance Conversational Recommendation with Uncertainty Estimation for User Preference</b>. <br>
+<b>Yinan Zhang</b>, Boyang Li, Yong Liu, Yuan You and Chunyan Miao. <br>
+<i>In WSDM 2023 Workshop on Interactive Recommender Systems</i>.<br>
+[[Paper]](https://dl.acm.org/doi/10.1145/3447548.3467338)
+
 ## 2021
 * <b>Initialization Matters: Regularizing Manifold-informed Initialization for Neural Recommendation Systems</b>. <br>
 <b>Yinan Zhang</b>, Boyang Li, Yong Liu, Hao Wang and Chunyan Miao. <br>
