@@ -9,4 +9,4 @@ author_profile: true
 
 # Contact
 LILY,N4-B3b-06,NTU,Singapore, 639798<br>
-Email: yinan002@e.ntu.edu.sg
+Email: yinan.zhang@ntu.edu.sg
