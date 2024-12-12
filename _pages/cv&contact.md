@@ -4,7 +4,7 @@ permalink: /cv&contact/
 author_profile: true
 ---
 
-[English CV [PDF]](https://github.com/zhangynnancy/zhangynnancy.github.io/blob/master/files/cv/CV.pdf)
+[English CV [PDF]](https://github.com/zhangynnancy/zhangynnancy.github.io/blob/master/files/cv/CV (2).pdf)
 
 
 # Contact
