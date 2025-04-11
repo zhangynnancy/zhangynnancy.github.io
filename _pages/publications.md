@@ -3,13 +3,23 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* <b>GreenRec: A Large-Scale Dataset for Green Food Recommendation.</b>. <br>
+* <b>GreenBites: A Real-Time Diet Assistant for Sustainable Health and Eco-Friendly Living</b>. <br>
+Yang Qiu, <b>Yinan Zhang</b>, Hongyu Zhou, Bo Huang and Zhiqi Shen. <br>
+<i>In WWW'25</i>. Demo track.<br>
+
+* <b>Bites of Tomorrow: Personalized Recommendations for a Healthier and Greener Plate</b>. <br>
+Jiazheng Jing*, <b>Yinan Zhang*</b> and Chunyan Miao. <br>
+<i>In AAAI'25</i>. Acceptance rate: 23.4%, main track (oral).<br>
+* <b>The POWER of Ikigai: Optimizing Life Fulfillment with an Integrated User Simulator and Adaptive Hobby Recommender</b>. <br>
+Ping Chen, Jonathan Leung, <b>Yinan Zhang</b> and Zhiqi Shen. <br>
+<i>In IAAI'25</i>.  Acceptance rate: 15.76%.<br>
+* <b>GreenRec: A Large-Scale Dataset for Green Food Recommendation</b>. <br>
 Lingzi Zhang*, <b>Yinan Zhang*</b>, Xin Zhou and Zhiqi Shen. <br>
-<i>In WWW'23</i>. Short paper track.<br>
+<i>In WWW'24</i>. Short paper track.<br>
 [[Paper]](https://dl.acm.org/doi/10.1145/3589335.3651516)
 * <b>Enabling Patient-side Disease Prediction via the Integration of Patient Narratives</b>. <br>
 Zhixiang Su, <b>Yinan Zhang</b>, Jiazheng Jing, Jie Xiao and Zhiqi Shen. <br>
-<i>In WWW'23</i>. Short paper track.<br>
+<i>In WWW'24</i>. Short paper track.<br>
 [[Paper]](https://dl.acm.org/doi/10.1145/3589335.3651498)
 * <b>Capturing Popularity Trends: A Simplistic Non-Personalized Approach for Enhanced Item Recommendation</b>. <br>
 Jiazheng Jing*, <b>Yinan Zhang*</b>, Xin Zhou and Zhiqi Shen. <br>
@@ -28,7 +38,10 @@ Jiazheng Jing*, <b>Yinan Zhang*</b>, Xin Zhou and Zhiqi Shen. <br>
 * <b>Learning Hierarchical Review Graph Representations for Recommendation</b>. <br>
 Yong Liu, Susen Yang, <b>Yinan Zhang</b>, Chunyan Miao, Zaiqing Nie and Juyong Zhang. <br>
 <i>In IEEE Transactions on Knowledge and Data Engineering</i>. Regular paper.<br>
-[[Paper]](https://ieeexplore.ieee.org/abstract/document/9416173?signout=success)
+* <b> Learning personalized itemset mapping for cross-domain recommendation</b>. <br>
+<b>Yinan Zhang</b>, Yong Liu, Peng Han, Chunyan Miao, Lizhen Cui, Baoli Li and Haihong Tang. <br>
+<i>In IJCAI'20</i>. Acceptance rate: 12.7%, main track.<br>
+[[Paper]](https://www.ijcai.org/proceedings/2020/355)
 * <b>Crowd-enabled Pareto-Optimal Objects Finding Employing Multi-Pairwise-Comparison Questions</b>. <br>
 Chang Liu, <b>Yinan Zhang</b>, Lei Liu, Lizhen Cui, Dong Yuan, Chunyan Miao. <br>
 <i>In CIKM'17</i>. Acceptance rate: 20%, full paper.<br>
